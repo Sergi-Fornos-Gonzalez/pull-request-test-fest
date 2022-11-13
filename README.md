@@ -3,3 +3,5 @@ Repositori creat per a testejar els pull-requests; objectiu de pràctiques setma
 Aquesta linea es una modificacio sense pull resquest
 Aquesta linea es una modificacio amb un pull request per part de l'admin amb una branch
 Aquesta linea es una modificacio amb un pull request per part de un altre usuari amb una branch des d'un FORK
+
+Es el dia 13-11-2022 i en cara estic utilitzant aquest repo
